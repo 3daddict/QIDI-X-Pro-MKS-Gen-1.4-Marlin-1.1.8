@@ -33,7 +33,7 @@
   #error "MKS 1.3/1.4 supports up to 2 hotends / E-steppers. Comment out this line to continue."
 #endif
 
-#define BOARD_NAME "MKS > v1.3"
+#define BOARD_NAME "MKS > v1.4"
 
 //
 // Heaters / Fans
